@@ -1,6 +1,6 @@
 # 📘 Portfolio Roadmap (2026–2027)
 
-This repository documents my journey from high school student to future Computer Engineering student at **The American University in Cairo (AUC)** , with a long‑term vision of working at **Google, Meta, or Microsoft** and pursuing a **master's degree in the USA**.
+This repository documents my journey from high school student to future Computer Engineering student at **The American University in Cairo (AUC)** , with a long‑term vision of working at **ASML** and pursuing a **master's degree in the USA**.
 
 As of **February 2026**, I am building a structured plan to develop my skills, projects, and experience.
 
@@ -88,7 +88,7 @@ As of **February 2026**, I am building a structured plan to develop my skills, p
 | **Q2 2027** | Apr – Jun 2027 | Scholarship interviews, financial aid docs | 🚧 Prepare for interviews <br> 🚧 Submit financial need docs |
 | **Q3 2027** | Jul – Sep 2027 | Acceptance, enrollment prep | 🎓 Begin AUC Computer Engineering |
 | **2028–2031** | AUC Years | Coursework, projects, internships | 🏎️ Deepen embedded systems/AI skills <br> 💼 Pursue internships at top tech companies |
-| **2031+** | After Graduation | USA master's, Big Tech career | 🎓 Apply for USA master's programs <br> 💻 Work at Google/Meta/Microsoft |
+| **2031+** | After Graduation | USA master's, Big Tech career | 🎓 Apply for USA master's programs <br> 💻 Work at ASML |
 
 ---
 
