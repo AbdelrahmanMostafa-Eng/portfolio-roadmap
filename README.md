@@ -100,7 +100,7 @@ This repo keeps me accountable, tracks my progress, and shows my long‑term com
 - Building impactful projects (FSAE + web)
 - Serving my community (150–200+ volunteer hours)
 - Competing globally (NASA Space Apps)
-- Aiming for Big Tech (Google/Meta/Microsoft)
+- Aiming for Big Tech (ASML)
 - Pursuing a USA master's degree
 
 ---
