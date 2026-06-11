@@ -10,7 +10,7 @@ As of **February 2026**, I am building a structured plan to develop my skills, p
 
 ### **2026**
 - ✅ Maintain 4.0 GPA
-- ⏳ Achieve SAT 1500+ (currently 1390 with 790 Math)
+- ✅ SAT 1530 (790 Math, 740 EBRW) - SuperScoring
 - ⏳ Complete ACT Biology (predicted 36)
 - ⏳ Build and launch Home Online Services website
 - ✅ Continue FSAE GitHub projects (Vehicle Dynamics, Telemetry, Electronics)
@@ -54,7 +54,7 @@ As of **February 2026**, I am building a structured plan to develop my skills, p
 | Achievement | Details |
 | :--- | :--- |
 | **GPA** | 4.0 (Grade 11, American Diploma) |
-| **SAT** | 1390 (790 Math, 600 EBRW) — targeting 1500+ |
+| **SAT** | 1530 (790 Math, 740 EBRW) - SuperScoring |
 | **ACT Subject Tests (AIST)** | Math 1: 36 \| Biology: 36 (predicted) |
 | **Volunteering** | Schoolhouse.world — targeting 100+ hours |
 | **GitHub Portfolio** | FSAE simulation projects (vehicle dynamics, telemetry, electronics) |
