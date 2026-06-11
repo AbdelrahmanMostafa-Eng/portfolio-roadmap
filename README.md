@@ -1,6 +1,6 @@
 # 📘 Portfolio Roadmap (2026–2027)
 
-This repository documents my journey from high school student to future Computer Engineering student at **The American University in Cairo (AUC)** , with a long‑term vision of working at **ASML** and pursuing a **master's degree in the USA**.
+This repository documents my journey from high school student to future Computer Engineering student at **The American University in Cairo (AUC)** , with a long‑term vision of working at **ASML** and pursuing a **master's degree in the Netherlands**.
 
 As of **February 2026**, I am building a structured plan to develop my skills, projects, and experience.
 
@@ -12,7 +12,7 @@ As of **February 2026**, I am building a structured plan to develop my skills, p
 - ✅ Maintain 4.0 GPA
 - ✅ SAT 1530 (790 Math, 740 EBRW) - SuperScoring
 - ⏳ Complete ACT Biology (predicted 36)
-- ⏳ Build and launch Home Online Services website
+- ⏳ Build and launch Home Online Services App
 - ✅ Continue FSAE GitHub projects (Vehicle Dynamics, Telemetry, Electronics)
 - ✅ Participate in **NASA Space Apps Challenge 2026**
 - ⏳ Reach **150–200+ volunteer hours** on Schoolhouse.world
@@ -24,7 +24,7 @@ As of **February 2026**, I am building a structured plan to develop my skills, p
 - ⏳ Secure **Excellence Scholarship** (target: 100% tuition)
 - ⏳ Finalize strong portfolio (6–8 projects)
 - ⏳ Prepare for AUC Computer Engineering coursework
-- ⏳ Research USA master's programs (Computer Engineering, AI, Embedded Systems)
+- ⏳ Research Netherlands master's programs (Computer Engineering, AI, Embedded Systems)
 
 ---
 
@@ -40,7 +40,7 @@ As of **February 2026**, I am building a structured plan to develop my skills, p
 ### **Web Development Projects**
 | Project | Status |
 | :--- | :--- |
-| Home Online Services Website | 🚧 In Progress |
+| Home Online Services App | 🚧 In Progress |
 
 ### **Hackathons & Competitions**
 | Event | Status |
@@ -71,7 +71,7 @@ As of **February 2026**, I am building a structured plan to develop my skills, p
 | **Tools** | Git, GitHub, VS Code |
 | **Engineering** | Vehicle dynamics, simulation, embedded systems |
 | **Data** | Analysis, visualization, telemetry |
-| **Web Development** | Full-stack (frontend + backend + database) |
+| **App Development** | Full-stack (frontend + backend + database) |
 | **AI/ML** | Fundamentals (future interest) |
 
 ---
@@ -101,7 +101,7 @@ This repo keeps me accountable, tracks my progress, and shows my long‑term com
 - Serving my community (150–200+ volunteer hours)
 - Competing globally (NASA Space Apps)
 - Aiming for Big Tech (ASML)
-- Pursuing a USA master's degree
+- Pursuing a Netherlands master's degree
 
 ---
 
