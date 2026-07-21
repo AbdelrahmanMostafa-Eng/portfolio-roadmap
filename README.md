@@ -55,7 +55,7 @@ As of **February 2026**, I am building a structured plan to develop my skills, p
 | :--- | :--- |
 | **GPA** | 4.0 (Grade 11, American Diploma) |
 | **SAT** | 1530 (790 Math, 740 EBRW) - SuperScoring |
-| **ACT Subject Tests (AIST)** | Math 1: 36 | Biology: 34 |
+| **ACT Subject Tests (AIST)** | Math 1: 36 \| Biology: 34 |
 | **Volunteering** | Schoolhouse.world — targeting 100+ hours |
 | **GitHub Portfolio** | FSAE simulation projects (vehicle dynamics, telemetry, electronics) |
 | **Hackathon** | NASA Space Apps Challenge 2026 participant |
